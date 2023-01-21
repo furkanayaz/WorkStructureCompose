@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkStructureCompose</string>
+    <string name="homepage">HOMEPAGE</string>
+    <string name="page_a">PAGE A</string>
+    <string name="page_b">PAGE B</string>
+    <string name="switch_page_a">SWITCH PAGE A</string>
+    <string name="switch_page_b">SWITCH PAGE B</string>
+    <string name="switch_homepage">BACK TO HOMEPAGE</string>
+    <string name="increase_counter">INCREASE COUNTER!</string>
+</resources>
